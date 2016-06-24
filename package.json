@@ -1,0 +1,26 @@
+{
+  "name": "firebase-chatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinmyers/firebase-chatter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustinmyers/firebase-chatter/issues"
+  },
+  "homepage": "https://github.com/dustinmyers/firebase-chatter#readme",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angularfire": "^2.0.1",
+    "bootstrap": "^3.3.6",
+    "firebase": "^3.0.5",
+    "ui-router": "^1.0.0-alpha.3"
+  }
+}
