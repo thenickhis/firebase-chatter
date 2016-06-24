@@ -7,7 +7,6 @@
 
         	messageRef.on('value',function(snapshot){
         		$scope.messages = snapshot.val();
-        		$scope.$apply();
         	});
 
             $scope.addNewMessage = function(messageObj) {
